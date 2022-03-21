@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "3.*",
+        "twig/twig": "^3.0",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Swu\\": "src/"
+        }
+    }
+}
